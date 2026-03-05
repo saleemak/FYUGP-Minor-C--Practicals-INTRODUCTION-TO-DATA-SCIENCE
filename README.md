@@ -9,7 +9,7 @@
 
 ## 📚 FYUGP Minor C Practicals – Introduction to Data Science
 
-This repository contains the **practical implementations for the course _“Introduction to Data Science”_ offered as Minor C under FYUGP**.
+This repository contains the **practical implementations for the course _“Introduction to Data Science”_ offered as Minor C under Calicut University FYUGP**.
 
 The repository focuses on **hands-on implementation of core data science and machine learning algorithms** using Python and commonly used data science libraries.
 
@@ -239,7 +239,7 @@ MES KVM College
 
 # 📄 License
 
-This repository is intended for **educational purposes** as part of the **FYUGP curriculum**.
+This repository is intended for **educational purposes** as part of the **FYUGP curriculum**(University of Calicut).
 
 ---
 
