@@ -64,10 +64,8 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Handling **highly imbalanced datasets**
 - Data preprocessing and **feature scaling**
 - **Train-test split**
-- Training classification models such as:
+- Training classification model such as:
   - Logistic Regression
-  - k-NN
-  - Decision Trees
 - Model evaluation using:
   - Accuracy
   - Precision
